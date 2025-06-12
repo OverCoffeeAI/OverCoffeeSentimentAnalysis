@@ -8,7 +8,7 @@ A FastAPI-based sentiment analysis service that classifies text as POSITIVE, NEG
 
 ```bash
 git clone https://github.com/OverCoffeeAI/OverCoffeeSentimentAnalysis.git
-cd YourRepoName
+cd OverCoffeeSentimentAnalysis
 ```
 
 ### 2. Set Up Virtual Environment
