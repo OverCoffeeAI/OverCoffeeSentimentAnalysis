@@ -103,8 +103,8 @@ async def health_check():
 # Run the app 
 if __name__ == "__main__":
     uvicorn.run(
-        "main:app",  # Change "main" to your filename if different
+        "main:app",  
         host="0.0.0.0",
         port=8000,
-        reload=True  # Auto-reload on code changes (remove in production)
+        reload=True  # Auto-reload on code changes 
     )
