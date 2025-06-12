@@ -1,0 +1,15 @@
+# Virtual environment
+sentiment_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+sentiment_140.csv
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
